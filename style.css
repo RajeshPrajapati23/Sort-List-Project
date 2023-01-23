@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(66,66,66);
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+}
+span{
+float: right;
+}
+.two-btn{
+    display: flex;
+    margin: auto 20vw;
+}
